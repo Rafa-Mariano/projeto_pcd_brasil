@@ -1,0 +1,27 @@
+# ============================================================================
+# DEPENDÊNCIAS DO PROJETO ETL - PESSOAS COM DEFICIÊNCIA
+# ============================================================================
+# INSTRUÇÕES DE INSTALAÇÃO:
+# pip install -r requirements.txt
+# ============================================================================
+
+# API e Requisições HTTP
+requests==2.31.0
+
+# Banco de Dados
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# Análise de Dados
+pandas==2.1.3
+numpy==1.26.2
+
+# Visualização Web
+streamlit==1.29.0
+plotly==5.18.0
+
+# Utilitários
+python-dotenv==1.0.0
+
+# Logging e Debug (opcional)
+colorlog==6.8.0
